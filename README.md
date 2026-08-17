@@ -2,6 +2,8 @@
 
 Copies files from a source tree into a new git repository, spreading them across backdated commits, and finishes today with an empty `README.md`.
 
+![Delorean](docs/images/delorean.jpg)
+
 ## Requirements
 
 - Go 1.22+
